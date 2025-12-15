@@ -1,7 +1,7 @@
 # WhatsApp Baileys
 
 <p align="center">
-  <img src="https://files.catbox.moe/2mltoe.png" alt="Thumbnail" />
+  <img src="https://files.catbox.moe/is3xb9.jpg" alt="Thumbnail" />
 </p>
 
 ## Overview
@@ -217,7 +217,7 @@ await sock.sendMessage(jid, {
 
 * Upstream: Whiskeysockets / Baileys
 * Community forks
-* Modified by @Killertzy
+* Modified by @Zennsyx
 
 ---
 
